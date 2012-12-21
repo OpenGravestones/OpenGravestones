@@ -12,7 +12,7 @@ Exisiting data schema:
 Each cemetery listing should be encoded with the following [Schema.org](http://schema.org/Cemetery) `Cemetery` markup:
 
 `<div itemscope itemtype="http://schema.org/Type" itemid="http://schema.org/Cemetery">`
-   `<link itemprop="subClassOf" href="http://schema.org/CivicStructure"/>`
+ `<link itemprop="subClassOf" href="http://schema.org/CivicStructure"/>`
 `</div>`
 
 Get involved!
