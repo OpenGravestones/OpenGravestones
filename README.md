@@ -1,7 +1,7 @@
 Open-Gravestones
 ================
 
-an open source cemetery CMS
+an open source cemetery CMS built on open standards
 
 Exisiting data schema:
 * http://schema.org/Person
