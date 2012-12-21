@@ -19,6 +19,8 @@ Each cemetery listing should be encoded with the following [Schema.org](http://s
              <span itemprop="addressLocality">Fort Myer</span>,
              <span itemprop="addressRegion">VA</span>
              <span itemprop="postalCode">22211</span>
+             
+             <meta itemprop="openingHours" content="Mo-Su 08:00-17:00">Mon-Sun  8am – 5pm
         </div>
     </div>
 
