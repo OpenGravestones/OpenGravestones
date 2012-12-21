@@ -4,10 +4,10 @@ Open-Gravestones
 an open source cemetery CMS built on open standards
 
 Exisiting data schema:
-* (http://schema.org/Person)
-* (http://schema.org/Cemetery)
+* http://schema.org/Person
+* http://schema.org/Cemetery
 See also:
-* (http://historical-data.org/)
+* http://historical-data.org/
 
 Each cemetery listing should be encoded with the following [Schema.org](http://schema.org/Cemetery) `Cemetery` markup:
 
@@ -27,4 +27,4 @@ Each cemetery listing should be encoded with the following [Schema.org](http://s
     </div>
 
 Get involved!
-* [Research doc](https://docs.google.com/document/d/1dhvmF-WGlqp2T7OU27QM6LRcNdAsJhHzY3_-gW35py0/)
+* [Add to our research doc](https://docs.google.com/document/d/1dhvmF-WGlqp2T7OU27QM6LRcNdAsJhHzY3_-gW35py0/)
