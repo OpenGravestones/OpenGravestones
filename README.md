@@ -13,6 +13,15 @@ Each cemetery listing should be encoded with the following [Schema.org](http://s
 
     <div itemscope itemtype="http://schema.org/Type" itemid="http://schema.org/Cemetery">
         <link itemprop="subClassOf" href="http://schema.org/CivicStructure"/>
+        <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+             <span itemprop="streetAddress">
+               Cemetery Name
+               5555 Cemetery St.
+             </span>
+             <span itemprop="addressLocality">Seattle</span>,
+             <span itemprop="addressRegion">WA</span>
+             <span itemprop="postalCode">98052</span>
+        </div>
     </div>
 
 Get involved!
