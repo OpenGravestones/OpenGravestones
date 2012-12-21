@@ -1,5 +1,4 @@
-Open-Gravestones
-================
+# Open-Gravestones
 
 an open source cemetery CMS built on open standards
 
@@ -27,5 +26,10 @@ Each cemetery listing should be encoded with the following [Schema.org](http://s
         Website: <a itemprop="url" href="http://www.arlingtoncemetery.mil/">http://www.arlingtoncemetery.mil/</a>
     </div>
 
-Get involved!
+## Resources
+
+### Metadata
+* [How to mark up your content using microdata](http://schema.org/docs/gs.html#microdata_how)
+
+## Get involved!
 * [Add to our research doc](https://docs.google.com/document/d/1dhvmF-WGlqp2T7OU27QM6LRcNdAsJhHzY3_-gW35py0/)
