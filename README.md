@@ -14,14 +14,14 @@ Each cemetery listing should be encoded with the following [Schema.org](http://s
     <div itemscope itemtype="http://schema.org/Type" itemid="http://schema.org/Cemetery">
         <link itemprop="subClassOf" href="http://schema.org/CivicStructure"/>
         <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-             <span itemprop="name">Arlington National Cemetery</span>
-             <span itemprop="streetAddress">1 Memorial Drive</span>
-             <span itemprop="addressLocality">Fort Myer</span>,
-             <span itemprop="addressRegion">VA</span>
-             <span itemprop="postalCode">22211</span>
-             
-             <meta itemprop="openingHours" content="Mo-Su 08:00-17:00">Mon-Sun  8am – 5pm
+          <span itemprop="name">Arlington National Cemetery</span>
+          <span itemprop="streetAddress">1 Memorial Drive</span>
+          <span itemprop="addressLocality">Fort Myer</span>,
+          <span itemprop="addressRegion">VA</span>
+          <span itemprop="postalCode">22211</span>
         </div>
+        Hours: <meta itemprop="openingHours" content="Mo-Su 08:00-17:00">Mon-Sun  8am – 5pm
+        Phone: <span itemprop="telephone">877-907-8585</span>
     </div>
 
 Get involved!
