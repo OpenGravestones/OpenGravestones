@@ -1,6 +1,6 @@
 # Open-Gravestones
 
-an open source cemetery CMS for municipalities built on open standards
+Open Gravestones is an open source project to provide public domain data that is built on open standards.
 
 Exisiting data schema:
 * http://schema.org/Person
