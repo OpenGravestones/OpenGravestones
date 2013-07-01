@@ -1,6 +1,6 @@
 # Open-Gravestones
 
-Open Gravestones is an open source project to provide public domain data that is built on open standards.
+Open Gravestones is an open source project that will provide public domain burial data that is based on open standards.
 
 Exisiting data schema:
 * http://schema.org/Person
@@ -29,6 +29,7 @@ Each cemetery listing should be encoded with the following [Schema.org](http://s
 ## Resources
 
 ### Metadata
+* Will most likely utilize [Places](https://github.com/DallanQ/Places) for resolving place name queries.
 * [How to mark up your content using microdata](http://schema.org/docs/gs.html#microdata_how)
 
 ## Get involved!
