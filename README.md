@@ -3,11 +3,10 @@
 Open Gravestones is an open source project that will provide public domain cemetery and burial data that is based on open standards.
 
 Exisiting data schema:
+* https://github.com/geojson/geojson-ld
 * http://historical-data.org/Person.html
 * http://schema.org/Cemetery
-
-See also:
-* http://historical-data.org/
+* http://rdf.muninn-project.org/ontologies/graves.html
 
 Each cemetery listing should be encoded with the following [Schema.org](http://schema.org/Cemetery) `Cemetery` markup:
 
@@ -29,8 +28,8 @@ Each cemetery listing should be encoded with the following [Schema.org](http://s
 ## Resources
 
 ### Metadata
-* Will most likely utilize [Places](https://github.com/DallanQ/Places) for resolving place name queries.
-* [How to mark up your content using microdata](http://schema.org/docs/gs.html#microdata_how)
+* Will most likely utilize something like [Places](https://github.com/DallanQ/Places) or [GeoName](http://www.geonames.org/)for resolving place name queries.
+* [How to mark up your content using microdata (Schema.org)](http://schema.org/docs/gs.html#microdata_how)
 
 ## Get involved!
 * [Add to our research doc](https://docs.google.com/document/d/1dhvmF-WGlqp2T7OU27QM6LRcNdAsJhHzY3_-gW35py0/)
