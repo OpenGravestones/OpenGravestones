@@ -3,6 +3,28 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Cemetery Name</title>
+	<link rel="canonical" href="http://example.com/Arlington_National_Cemetery" />
+	<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+	<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+	<meta name="DC.creator" content="someone@example.com">
+	<meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text"> 
+	<meta name="DC.format" content="text/html">
+	<meta name="DC.publisher" content="[contact details]">
+	<link rel="home" href="/">
+	<link rel="contents" href="/sitemap" title="Site map">
+	<link rel="copyright" href="/copyright" title="Copyright statement">
+	<link rel="accessibility" href="/accessibility" title="Accessibility statement">
+	<link rel="search" href="/search">
+	<meta name="Keywords" content="[suitable keywords/ tags]">
+	<meta name="Description" content="[Brif text description]">
+	<meta name="DC.title" content="[value of 'title' attribute]">
+	<meta name="DC.subject" lang="en" content="[repeat list of keywords]">
+	<meta name="DC.description" lang="en" content="[repeat text description]">
+	<meta name="ICBM" content="[comma-separated latitude and longitude]">
+	<meta name="geo.position" content="[semicolon-separated latitude and longitude]">
+	<meta name="geo.placename" content="[text version of placename]">
+	<meta name="geo.region" content="[ISO code for region  (if avaialble); eg US-VA, GB-BIR]">
+	<!-- More meta heders here-->
 </head>
 <body>
 	<div itemscope itemtype="http://schema.org/Type" itemid="http://schema.org/Cemetery">
@@ -16,8 +38,12 @@
 	      <span itemprop="postalCode">22211</span>
 	    </div>
 	    Hours: <meta itemprop="openingHours" content="Mo-Su 08:00-17:00">Mon-Sun  8am – 5pm
-	    Phone: <span itemprop="telephone">877-907-8585</span>
+	    Phone: <a itemprop="telephone" href="tel:18779078585">877-907-8585</a>
+	    Email: <a itemprop="email" href="mailto:arlington@example.com">arlington@example.com</a>
 	    Website: <a itemprop="url" href="http://www.arlingtoncemetery.mil/">http://www.arlingtoncemetery.mil/</a>
+	    Wikidata: <a itemprop="url" href="https://wikidata.org/Q216344">Q216344</a>
+	    Wikipedia (en): <a itemprop="url" href="https://en.wikipedia.org/wiki/Arlington_National_Cemetery">Arlington National Cemetery on Wikipedia</a>
+	    <!-- Wikipedia in other languages shuold be substituted dependent on user settings and availability-->
 	</div>
 </body>
 </html>
