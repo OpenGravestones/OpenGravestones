@@ -24,12 +24,13 @@ Each cemetery listing should be encoded with the following [Schema.org](http://s
         Phone: <span itemprop="telephone">877-907-8585</span>
         Website: <a itemprop="url" href="http://www.arlingtoncemetery.mil/">http://www.arlingtoncemetery.mil/</a>
     </div>
+    
+## Get involved!
+* [Add to our research doc](https://docs.google.com/document/d/1dhvmF-WGlqp2T7OU27QM6LRcNdAsJhHzY3_-gW35py0/)
+
 
 ## Resources
 
 ### Metadata
-* Will most likely utilize something like [Places](https://github.com/DallanQ/Places) or [GeoName](http://www.geonames.org/)for resolving place name queries.
+* Will most likely utilize something like [Places](https://github.com/DallanQ/Places) or [GeoName](http://www.geonames.org/) for resolving place name queries.
 * [How to mark up your content using microdata (Schema.org)](http://schema.org/docs/gs.html#microdata_how)
-
-## Get involved!
-* [Add to our research doc](https://docs.google.com/document/d/1dhvmF-WGlqp2T7OU27QM6LRcNdAsJhHzY3_-gW35py0/)
