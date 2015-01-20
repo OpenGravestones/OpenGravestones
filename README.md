@@ -1,4 +1,4 @@
-# Open-Gravestones
+# Open Gravestones
 
 Open Gravestones is an open source project that will provide public domain cemetery and burial data that is based on open standards such as [GeoJSON-LD](https://github.com/geojson/geojson-ld) and [Schema.org](http://schema.org/) structured data.
 
