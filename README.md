@@ -4,6 +4,7 @@ Open Gravestones is an open source project that will provide public domain cemet
 
 Exisiting data schema:
 * https://github.com/geojson/geojson-ld
+* https://github.com/khessler/Cemeteries
 * http://historical-data.org/Person.html
 * http://schema.org/Cemetery
 * http://rdf.muninn-project.org/ontologies/graves.html
